@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 98bw.aux
+The style file: ./bibtex/aa.bst
+Database file #1: ./bibtex/refs.bib
+You're missing a field part---line 653 of file ./bibtex/refs.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 697 of file ./bibtex/refs.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 711 of file ./bibtex/refs.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 726 of file ./bibtex/refs.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in 1989spce.book.....L
+Warning--empty publisher in 1989agna.book.....O
+You've used 100 entries,
+            3039 wiz_defined-function locations,
+            1379 strings with 40205 characters,
+and the built_in function-call counts, 78863 in all, are:
+= -- 5989
+> -- 9603
+< -- 25
++ -- 3205
+- -- 3104
+* -- 7382
+:= -- 14804
+add.period$ -- 100
+call.type$ -- 100
+change.case$ -- 1434
+chr.to.int$ -- 99
+cite$ -- 102
+duplicate$ -- 1877
+empty$ -- 2644
+format.name$ -- 3370
+if$ -- 15351
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 97
+newline$ -- 304
+num.names$ -- 401
+pop$ -- 1459
+preamble$ -- 1
+purify$ -- 1434
+quote$ -- 0
+skip$ -- 1588
+stack$ -- 0
+substring$ -- 2054
+swap$ -- 39
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 894
+warning$ -- 2
+while$ -- 394
+width$ -- 0
+write$ -- 1001
+(There were 4 error messages)
