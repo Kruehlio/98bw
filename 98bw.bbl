@@ -1,4 +1,4 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{107}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Alloin} {et~al.}(1979){Alloin}, {Collin-Souffrin}, {Joly}, \&
@@ -16,10 +16,12 @@
 {Anderson}, J.~P., {Covarrubias}, R.~A., {James}, P.~A., {Hamuy}, M., \&
   {Habergham}, S.~M. 2010, \mnras, 407, 2660
 
-\bibitem[{{Arabsalmani} {et~al.}(2015){Arabsalmani}, {Roychowdhury}, {Zwaan},
-  {Kanekar}, \& {Micha{\l}owski}}]{2015MNRAS.454L..51A}
-{Arabsalmani}, M., {Roychowdhury}, S., {Zwaan}, M.~A., {Kanekar}, N., \&
-  {Micha{\l}owski}, M.~J. 2015, \mnras, 454, L51
+\bibitem[{{Appenzeller} {et~al.}(1998){Appenzeller}, {Fricke}, {F{\"u}rtig},
+  {G{\"a}ssler}, {H{\"a}fner}, {Harke}, {Hess}, {Hummel}, {J{\"u}rgens},
+  {Kudritzki}, {Mantel}, {Meisl}, {Muschielok}, {Nicklas}, {Rupprecht},
+  {Seifert}, {Stahl}, {Szeifert}, \& {Tarantik}}]{1998Msngr..94....1A}
+{Appenzeller}, I., {Fricke}, K., {F{\"u}rtig}, W., {et~al.} 1998, The
+  Messenger, 94, 1
 
 \bibitem[{{Asplund} {et~al.}(2009){Asplund}, {Grevesse}, {Sauval}, \&
   {Scott}}]{2009ARA&A..47..481A}
@@ -197,6 +199,10 @@
   {Dessauges-Zavadsky}, {Le Floc'h}, \& {Puech}}]{2006A&A...454..103H}
 {Hammer}, F., {Flores}, H., {Schaerer}, D., {et~al.} 2006, \aap, 454, 103
 
+\bibitem[{{Hjorth} \& {Bloom}(2012)}]{2012grbu.book..169H}
+{Hjorth}, J. \& {Bloom}, J.~S. 2012, {The Gamma-Ray Burst - Supernova
+  Connection}, 169--190
+
 \bibitem[{{Ho} {et~al.}(2015){Ho}, {Kudritzki}, {Kewley}, {Zahid}, {Dopita},
   {Bresolin}, \& {Rupke}}]{2015MNRAS.448.2030H}
 {Ho}, I.-T., {Kudritzki}, R.-P., {Kewley}, L.~J., {et~al.} 2015, \mnras, 448,
@@ -308,6 +314,9 @@
 {Levesque}, E.~M., {Berger}, E., {Soderberg}, A.~M., \& {Chornock}, R. 2011,
   \apj, 739, 23
 
+\bibitem[{{Levesque} \& {Leitherer}(2013)}]{2013ApJ...779..170L}
+{Levesque}, E.~M. \& {Leitherer}, C. 2013, \apj, 779, 170
+
 \bibitem[{{Li} {et~al.}(2011){Li}, {Leaman}, {Chornock}, {Filippenko},
   {Poznanski}, {Ganeshalingam}, {Wang}, {Modjaz}, {Jha}, {Foley}, \&
   {Smith}}]{2011MNRAS.412.1441L}
@@ -348,6 +357,11 @@
 {Marino}, R.~A., {Rosales-Ortega}, F.~F., {S{\'a}nchez}, S.~F., {et~al.} 2013,
   \aap, 559, A114
 
+\bibitem[{{Mazzali} {et~al.}(2001){Mazzali}, {Nomoto}, {Patat}, \&
+  {Maeda}}]{2001ApJ...559.1047M}
+{Mazzali}, P.~A., {Nomoto}, K., {Patat}, F., \& {Maeda}, K. 2001, \apj, 559,
+  1047
+
 \bibitem[{{McGaugh}(1991)}]{1991ApJ...380..140M}
 {McGaugh}, S.~S. 1991, \apj, 380, 140
 
@@ -384,6 +398,12 @@
   {Perley}, \& {Silverman}}]{2011ApJ...731L...4M}
 {Modjaz}, M., {Kewley}, L., {Bloom}, J.~S., {et~al.} 2011, \apjl, 731, L4
 
+\bibitem[{{Morisset} {et~al.}(2016){Morisset}, {Delgado-Inglada},
+  {S{\'a}nchez}, {Galbany}, {Garc{\'{\i}}a-Benito}, {Husemann}, {Marino},
+  {Mast}, \& {Roth}}]{2016A&A...594A..37M}
+{Morisset}, C., {Delgado-Inglada}, G., {S{\'a}nchez}, S.~F., {et~al.} 2016,
+  \aap, 594, A37
+
 \bibitem[{{Nagao} {et~al.}(2006){Nagao}, {Maiolino}, \&
   {Marconi}}]{2006A&A...459...85N}
 {Nagao}, T., {Maiolino}, R., \& {Marconi}, A. 2006, \aap, 459, 85
@@ -400,6 +420,10 @@
 \bibitem[{{Osterbrock}(1989)}]{1989agna.book.....O}
 {Osterbrock}, D.~E. 1989, {Astrophysics of gaseous nebulae and active galactic
   nuclei}
+
+\bibitem[{{Osterbrock} \& {Ferland}(2006)}]{2006agna.book.....O}
+{Osterbrock}, D.~E. \& {Ferland}, G.~J. 2006, {Astrophysics of gaseous nebulae
+  and active galactic nuclei}
 
 \bibitem[{{Pagel} {et~al.}(1979){Pagel}, {Edmunds}, {Blackwell}, {Chun}, \&
   {Smith}}]{1979MNRAS.189...95P}
@@ -476,10 +500,6 @@
 {S{\'a}nchez}, S.~F., {Rosales-Ortega}, F.~F., {Iglesias-P{\'a}ramo}, J.,
   {et~al.} 2014, \aap, 563, A49
 
-\bibitem[{{Savaglio} {et~al.}(2009){Savaglio}, {Glazebrook}, \& {Le
-  Borgne}}]{2009ApJ...691..182S}
-{Savaglio}, S., {Glazebrook}, K., \& {Le Borgne}, D. 2009, \apj, 691, 182
-
 \bibitem[{{Schady} {et~al.}(2015){Schady}, {Kr{\"u}hler}, {Greiner}, {Graham},
   {Kann}, {Bolmer}, {Delvaux}, {Elliott}, {Klose}, {Knust}, {Nicuesa
   Guelbenzu}, {Rau}, {Rossi}, {Savaglio}, {Schmidl}, {Schweyer}, {Sudilovsky},
@@ -501,6 +521,9 @@
 
 \bibitem[{{Stasi{\'n}ska}(2006)}]{2006A&A...454L.127S}
 {Stasi{\'n}ska}, G. 2006, \aap, 454, L127
+
+\bibitem[{{Storey} \& {Zeippen}(2000)}]{2000MNRAS.312..813S}
+{Storey}, P.~J. \& {Zeippen}, C.~J. 2000, \mnras, 312, 813
 
 \bibitem[{{Th{\"o}ne} {et~al.}(2014){Th{\"o}ne}, {Christensen}, {Prochaska},
   {Bloom}, {Gorosabel}, {Fynbo}, {Jakobsson}, \&
@@ -534,11 +557,23 @@
   Data Analysis Software and Systems XXIII, ed. N.~{Manset} \& P.~{Forshay},
   451
 
+\bibitem[{{Wesson} {et~al.}(2016){Wesson}, {Stock}, \&
+  {Scicluna}}]{2016MNRAS.459.3475W}
+{Wesson}, R., {Stock}, D.~J., \& {Scicluna}, P. 2016, \mnras, 459, 3475
+
 \bibitem[{{Wiersema} {et~al.}(2007){Wiersema}, {Savaglio}, {Vreeswijk},
   {Ellison}, {Ledoux}, {Yoon}, {M{\o}ller}, {Sollerman}, {Fynbo}, {Pian},
   {Starling}, \& {Wijers}}]{2007A&A...464..529W}
 {Wiersema}, K., {Savaglio}, S., {Vreeswijk}, P.~M., {et~al.} 2007, \aap, 464,
   529
+
+\bibitem[{{Xu} {et~al.}(2013){Xu}, {de Ugarte Postigo}, {Leloudas},
+  {Kr{\"u}hler}, {Cano}, {Hjorth}, {Malesani}, {Fynbo}, {Th{\"o}ne},
+  {S{\'a}nchez-Ram{\'{\i}}rez}, {Schulze}, {Jakobsson}, {Kaper}, {Sollerman},
+  {Watson}, {Cabrera-Lavers}, {Cao}, {Covino}, {Flores}, {Geier}, {Gorosabel},
+  {Hu}, {Milvang-Jensen}, {Sparre}, {Xin}, {Zhang}, {Zheng}, \&
+  {Zou}}]{2013ApJ...776...98X}
+{Xu}, D., {de Ugarte Postigo}, A., {Leloudas}, G., {et~al.} 2013, \apj, 776, 98
 
 \bibitem[{{Zaritsky} {et~al.}(1994){Zaritsky}, {Kennicutt}, \&
   {Huchra}}]{1994ApJ...420...87Z}
