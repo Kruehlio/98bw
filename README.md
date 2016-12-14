@@ -1,5 +1,4 @@
 # 98bw
 
 This is the paper in preperation: 
-"Ionized gas around SN98bw: Metallicity, dust and ionization 
-at 100 pc scales."
+"Hot gas around SN98bw: the progenitor from its environment."
