@@ -1,4 +1,4 @@
-\begin{thebibliography}{119}
+\begin{thebibliography}{123}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Alloin} {et~al.}(1979){Alloin}, {Collin-Souffrin}, {Joly}, \&
@@ -149,6 +149,15 @@
   {Arimoto}, {Mignoli}, \& {Onodera}}]{2009ApJ...706.1364F}
 {F{\"o}rster Schreiber}, N.~M., {Genzel}, R., {Bouch{\'e}}, N., {et~al.} 2009,
   \apj, 706, 1364
+
+\bibitem[{{Fruchter} {et~al.}(2006){Fruchter}, {Levan}, {Strolger},
+  {Vreeswijk}, {Thorsett}, {Bersier}, {Burud}, {Castro Cer{\'o}n},
+  {Castro-Tirado}, {Conselice}, {Dahlen}, {Ferguson}, {Fynbo}, {Garnavich},
+  {Gibbons}, {Gorosabel}, {Gull}, {Hjorth}, {Holland}, {Kouveliotou}, {Levay},
+  {Livio}, {Metzger}, {Nugent}, {Petro}, {Pian}, {Rhoads}, {Riess}, {Sahu},
+  {Smette}, {Tanvir}, {Wijers}, \& {Woosley}}]{2006Natur.441..463F}
+{Fruchter}, A.~S., {Levan}, A.~J., {Strolger}, L., {et~al.} 2006, \nat, 441,
+  463
 
 \bibitem[{{Fynbo} {et~al.}(2009){Fynbo}, {Jakobsson}, {Prochaska}, {Malesani},
   {Ledoux}, {de Ugarte Postigo}, {Nardini}, {Vreeswijk}, {Wiersema}, {Hjorth},
@@ -369,6 +378,12 @@ Hunter, J.~D. 2007, Computing In Science \& Engineering, 9, 90
   {Hodapp}, {Kaiser}, {Magnier}, {Price}, \& {Wainscoat}}]{2014ApJ...787..138L}
 {Lunnan}, R., {Chornock}, R., {Berger}, E., {et~al.} 2014, \apj, 787, 138
 
+\bibitem[{{Lyman} {et~al.}(2017){Lyman}, {Levan}, {Tanvir}, {Fynbo}, {McGuire},
+  {Perley}, {Angus}, {Bloom}, {Conselice}, {Fruchter}, {Hjorth}, {Jakobsson},
+  \& {Starling}}]{2017MNRAS.tmp..220L}
+{Lyman}, J.~D., {Levan}, A.~J., {Tanvir}, N.~R., {et~al.} 2017, \mnras
+  [\eprint[arXiv]{1701.05925}]
+
 \bibitem[{{Maeda} {et~al.}(2006){Maeda}, {Nomoto}, {Mazzali}, \&
   {Deng}}]{2006ApJ...640..854M}
 {Maeda}, K., {Nomoto}, K., {Mazzali}, P.~A., \& {Deng}, J. 2006, \apj, 640, 854
@@ -569,6 +584,11 @@ Hunter, J.~D. 2007, Computing In Science \& Engineering, 9, 90
   {Wuyts}}]{2014A&A...566A.102S}
 {Schulze}, S., {Malesani}, D., {Cucchiara}, A., {et~al.} 2014, \aap, 566, A102
 
+\bibitem[{{Smette} {et~al.}(2015){Smette}, {Sana}, {Noll}, {Horst}, {Kausch},
+  {Kimeswenger}, {Barden}, {Szyszka}, {Jones}, {Gallenne}, {Vinther},
+  {Ballester}, \& {Taylor}}]{2015A&A...576A..77S}
+{Smette}, A., {Sana}, H., {Noll}, S., {et~al.} 2015, \aap, 576, A77
+
 \bibitem[{{Sollerman} {et~al.}(2005){Sollerman}, {{\"O}stlin}, {Fynbo},
   {Hjorth}, {Fruchter}, \& {Pedersen}}]{2005NewA...11..103S}
 {Sollerman}, J., {{\"O}stlin}, G., {Fynbo}, J.~P.~U., {et~al.} 2005, \na, 11,
@@ -584,6 +604,11 @@ Hunter, J.~D. 2007, Computing In Science \& Engineering, 9, 90
 
 \bibitem[{{Storey} \& {Zeippen}(2000)}]{2000MNRAS.312..813S}
 {Storey}, P.~J. \& {Zeippen}, C.~J. 2000, \mnras, 312, 813
+
+\bibitem[{{Svensson} {et~al.}(2010){Svensson}, {Levan}, {Tanvir}, {Fruchter},
+  \& {Strolger}}]{2010MNRAS.405...57S}
+{Svensson}, K.~M., {Levan}, A.~J., {Tanvir}, N.~R., {Fruchter}, A.~S., \&
+  {Strolger}, L.-G. 2010, \mnras, 405, 57
 
 \bibitem[{{Tanvir} {et~al.}(2009){Tanvir}, {Fox}, {Levan}, {Berger},
   {Wiersema}, {Fynbo}, {Cucchiara}, {Kr{\"u}hler}, {Gehrels}, {Bloom},

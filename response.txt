@@ -1,0 +1,191 @@
+-------------------
+We very much thank the referee for the time spent on preparing the report, 
+the timely response, and very valuable comments. All of them are addressed 
+in detail below.
+We have considered them carefully, in particular the issue with too broad
+Hbeta absorption, and think that the paper has now further gained in 
+strength and clarity. The changes are marked in bold-face in the 
+revised version.
+-------------------
+
+
+The submitted manuscript presents observations of the host galaxy of
+GRB980425/SN1998bw with the integral-field spectrograph MUSE at the
+VLT. GRB980425/SN1998bw is the closest GRB to date and more
+importantly, the first GRB for which an accompanying supernova was
+observed. The observations result in detailed maps of emission line
+strengths and ratios, leading to maps of star formation rate, dust
+extinction and oxygen abundance or metallicity using different
+diagnostics. The authors use these to maps to infer a young
+environment for the GRB/SN, mild extinction towards it, with a
+progenitor mass in the range 25-40 solar masses. Interestingly, they
+show that the metallicity diagnostic based on [OIII] and/or [NII]
+(O3N2) shows a strong correlation with ionization parameter, and that
+it is not a reliable indicator of the oxygen abundance at low and high
+ionization. Finally, they place their results for this large resolved
+nearby GRB host galaxy in the context of observations of higher
+redshift GRBs, where the metallicity is typically inferred from a
+spectrum which includes most or all of the host emission.
+
+It was a pleasure to read this paper; it is very well written, the
+analysis appears to be very sound and the interesting results are
+discussed in a clear context. Although I do have some suggestions
+and a few things that I hope the authors can clarify for me/the
+reader (see below), I'm happy to recommend this manuscript for
+publication in Astronomy & Astrophysics.
+
+-------------------
+-------------------
+
+
+o Related to the last paragraph of both section 4.5 and 4.6: a point
+that I was missing in this discussion is that many GRB hosts are
+irregular galaxies where it is difficult to determine a center of
+the galaxy, and so often a distance of the GRB from the center of
+the host is not very meaningful. Also, the authors could mention
+here that GRBs tend to originate from the UV-bright regions within
+their hosts, which are the same regions from which the SFR-weighted
+metallicity is inferred.
+
+-------------------
+We have added a notes about these two important issues in 
+section 4.5/4.6.
+-------------------
+
+
+
+o The paper convincingly argues against the hypothesis suggested by
+Hammer et al. (2006) that the progenitor of GRB980425/SN1998bw
+originates from the WR region. I think this conclusion is well worth
+adding to the abstract.
+
+-------------------
+Added to the abstract.
+-------------------
+ 
+
+o Although the stellar absorption model in Fig. 2 appears to describe
+the overall spectrum very well, the Hbeta absorption seems to be
+overestimated as apparent in the resulting Hbeta profile in the
+gas-phase spectrum, which appears unphysically wide. Why is that? If
+the Hbeta absorption is indeed overestimated, the dust extinction
+will be underestimated, and it is the dust extinction that is found
+to be substantially lower in this paper than in previous works. So
+it would be good if the authors could take away this worry.
+
+------------------
+Given the importance that a good Hbeta correction has on our claims, 
+we have decided to investigate this issue with more scrutiny. We fully agree
+with the assessment that the Hbeta profile was too wide, likely the result of
+an overestimated velocity dispersion with which the model of the stellar
+continuum was folded in the fit.
+
+We applied the following new analysis:
+- Correction of the initial data cube with a telluric model derived from 
+the MUSE spectrum of the star at RA:19:35:02.00, Decl:-52:50:21.1 (this 
+allows us to include the telluric bands within the continuum model).
+- Use a finer grid in the spectral fitting (on co-added 2x2 spaxels)
+- Increase of the number of base function in the continuum fit
+- Changed fit parameters regarding the kinematical fit of starlight 
+
+The new fit returns significantly lower velocity dispersion, and an better
+and more adequate description of the stellar continuum. We believe that the 
+updated Fig. 2 now convincingly demonstrates this. With this improved model, 
+we re-ran all the analysis and find no significant changes throughout.
+
+------------------
+
+
+
+
+o In Figures 2 and especially A.1 and A.2, it is difficult to see the
+stellar component. The authors could improve these figures somewhat;
+for example, by showing a zoom in on the continuum, cutting off the
+emission lines close to their base, in an additional figure panel.
+
+------------------
+These three figures have been changed with adding two (Figure 2) 
+or 1 (Figures A.1, A.2)  additional panel. Also the content of the 
+figures was improved (see response the above point).
+
+------------------
+
+
+o The SNR > 3 mentioned in the caption of Fig. 7 is apparently
+inconsistent with the corresponding limit mentioned in the text:
+SNR >= 5.
+
+-----------------
+This has been corrected.
+-----------------
+
+
+
+o In the abstract the authors report the T_e-derived oxygen abundance
+for the SN and WR regions inferred from the archival long-slit FORS2
+spectra and the galaxy-integrated abundance from the O3N2/N2
+diagnostic. Why not report all three from the Dopita et al. (2016)
+abundances inferred from the MUSE data? If the T_e abundances are
+considered to be more reliable, the authors could perhaps scale the
+Dopita 2016 measurements to those of the T_e abundances, e.g. by
+about 0.15 dex as apparent from Fig. B.1, and report the scaled
+Dopita 2016 values.
+
+-------------------
+We follow this suggestion and provide D16 values scaled by 0.15~dex
+according to the co-spatial T_e abundances as our best estimate for
+abundance. This changes only the SN site abundace by 0.1 dex 
+(to higher values). Abstract and Conclusions have been updated 
+accordingly.
+-------------------
+
+
+
+o When determining the galaxy-integrated properties, all spaxels
+(within 50" diameter) are taken into acccount, or just those that
+reach a signal-to-noise ratio (in a line or property) of at least 3
+or 5?
+-------------------
+We take all spaxels into account to estimate what would have been
+measured in case the galaxy would be non-resolved. We have also
+tried various cuts in signal-to-noise ratio, and the properties
+remain largely unchanged (the galaxy-integrated spectrum is 
+dominated by the brightest, highest S/N spaxels).
+
+-------------------
+
+o In Sect. 4.2, paragraph 3: the Halpha and [OIII]5007 EWs limits
+listed here are a bit higher than those in Table 1; good to make
+them consistent.
+-------------------
+The limits have been corrected.
+-------------------
+
+
+
+
+
+
+Minor suggestions:
+
+
+
+- abstract, last line: "than" --> "to"
+- section 1, paragraph 8: "extend" --> "extent"
+- caption Fig. 5: diameter rather than radius of 180pc?
+- last paragraph of section 4.3: a word is missing after "previous"
+- figure 6: extend it over both columns so the size is similar to the
+other maps
+- first paragraph of section 4.4.2: "immediately" --> "directly"
+- last line of section 4.4.4: "galaxies" --> "galaxy"
+- first par. of sect. 4.4.5, last line: switch "both" and
+"[SIII](6312)"
+- first line sect. 4.6: "closest GRB since the discovery of GRB
+afterglows"?
+- conclusions, par. 2: "emphasize" --> "emphasis"
+- same par.: 100pc --> 160pc like elsewhere in the paper
+- conclusion (vii): "upper" --> "above" 
+-------------------
+These have all been fixed.
+-------------------
+
