@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/MacPorts 2015_12)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 98bw.aux
+The style file: aa.bst
+Database file #1: ./bibtex/refs.bib
+You're missing a field part---line 966 of file ./bibtex/refs.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in 2012grbu.book..169H
+Warning--empty publisher in 1989spce.book.....L
+Warning--empty publisher in 1989agna.book.....O
+Warning--empty publisher in 2006agna.book.....O
+You've used 131 entries,
+            3039 wiz_defined-function locations,
+            1582 strings with 52459 characters,
+and the built_in function-call counts, 107015 in all, are:
+= -- 8087
+> -- 13291
+< -- 31
++ -- 4440
+- -- 4304
+* -- 10051
+:= -- 20106
+add.period$ -- 131
+call.type$ -- 131
+change.case$ -- 1958
+chr.to.int$ -- 128
+cite$ -- 135
+duplicate$ -- 2451
+empty$ -- 3466
+format.name$ -- 4651
+if$ -- 20826
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 128
+newline$ -- 397
+num.names$ -- 525
+pop$ -- 1983
+preamble$ -- 1
+purify$ -- 1958
+quote$ -- 0
+skip$ -- 2081
+stack$ -- 0
+substring$ -- 2698
+swap$ -- 49
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1167
+warning$ -- 4
+while$ -- 519
+width$ -- 0
+write$ -- 1310
+(There was 1 error message)
